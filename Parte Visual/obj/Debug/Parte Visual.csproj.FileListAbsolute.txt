@@ -1,0 +1,35 @@
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\bin\Debug\Parte Visual.exe.config
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte Visual.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte_Visual.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte Visual.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\bin\Debug\Parte Visual.exe
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\bin\Debug\Parte Visual.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\bin\Debug\es-ES\Parte Visual.resources.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\bin\Debug\Parte Logica.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\bin\Debug\Parte Logica.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\es-ES\Parte Visual.resources.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte Visual.exe
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte Visual.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmMain.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmNewGame.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmWin.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmMain.es-ES.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\bin\Debug\Parte Visual.exe.config
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte Visual.exe
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte Visual.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\bin\Debug\Parte Visual.exe
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\bin\Debug\Parte Visual.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\bin\Debug\es-ES\Parte Visual.resources.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\bin\Debug\Parte Logica.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\bin\Debug\Parte Logica.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte Visual.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmMain.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmNewGame.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.Properties.Resources.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmWin.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrmMain.es-ES.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte Visual.csproj.GenerateResource.Cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\es-ES\Parte Visual.resources.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FRSolution.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrScore.resources
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Visual\obj\Debug\Parte_Visual.FrHowToPlay.resources

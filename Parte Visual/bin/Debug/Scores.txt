@@ -1,0 +1,11 @@
+10
+4,43 Ana 13
+5,34 Juan 13
+6,22 El_Tigri 8
+6,22 Sean 8
+6,24 Josue 13
+7,34 David 16
+9,12 Ana 13
+12,22 Sean 8
+13,12 David_Sean 10
+15,27 Jonathan 8

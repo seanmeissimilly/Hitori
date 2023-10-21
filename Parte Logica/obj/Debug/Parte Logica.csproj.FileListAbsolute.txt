@@ -1,0 +1,10 @@
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Logica\bin\Debug\Parte Logica.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Logica\bin\Debug\Parte Logica.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Logica\obj\Debug\Parte Logica.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Logica\obj\Debug\Parte Logica.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\Hitori\Parte Logica\obj\Debug\Parte Logica.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Logica\bin\Debug\Parte Logica.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Logica\bin\Debug\Parte Logica.pdb
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Logica\obj\Debug\Parte Logica.csprojResolveAssemblyReference.cache
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Logica\obj\Debug\Parte Logica.dll
+C:\Users\David Sean\Documents\Visual Studio 2015\Projects\C#\Hitori\Parte Logica\obj\Debug\Parte Logica.pdb
